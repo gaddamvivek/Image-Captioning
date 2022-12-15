@@ -25,7 +25,7 @@ from keras.layers.merge import add
 # In[75]:
 
 
-model=load_model("model_weights/model_9.h5")
+model=load_model("model_9.h5")
 model.make_predict_function()
 
 # In[76]:
